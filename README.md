@@ -1,0 +1,55 @@
+# JIRA Icons (images only, no links)
+## jira_priority
+- P1
+- P2
+- P3
+- P4-B1
+- P4-B2
+- P4-B3
+
+## issuetype
+- Subtask
+- Sub Test Execution
+- Lead
+- Hot Fix
+- PROD Bug
+- Test
+- Improvement
+- Submit a request or incident
+- Task
+- [System] Incident
+- Test Plan
+- Emailed request
+- Feature Bug
+- [System] Service request with approvals
+- Admin
+- FF
+- General request
+- Story
+- Customer
+- [System] Service request
+- Tech Debt
+- Board meeting
+- New Feature
+- Security
+- Business Development
+- Customer Support / Meeting
+- Professional Development
+- Questions for sales
+- Request quote support
+- Request deal support
+- Request a review
+- Test
+- Test Plan
+- Vacation
+- Test Set
+- Precondition
+- Test Execution
+- Paid Personal / Carer's Leave
+- Unpaid Leave
+- Public Holiday
+- Lead
+- Epic
+- Project
+- Initiative
+- Project group
