@@ -60,3 +60,12 @@
 | <img src="issuetype/project.png" width="16" height="16" alt="" /> | Project |
 | <img src="issuetype/initiative.png" width="16" height="16" alt="" /> | Initiative |
 | <img src="issuetype/projectgroup.png" width="16" height="16" alt="" /> | Project group |
+
+## All_jira_icons_png (logos)
+
+| | Name |
+|--|--|
+| <img src="All_jira_icons_png/atlassian_jira_logo_icon.png" width="16" height="16" alt="" /> | Atlassian Jira logo |
+| <img src="All_jira_icons_png/atlassian_jira_logo_icon_2.png" width="16" height="16" alt="" /> | Atlassian Jira logo 2 |
+| <img src="All_jira_icons_png/jira_cloud_macos_bigsur_icon.png" width="16" height="16" alt="" /> | Jira Cloud macOS Big Sur |
+| <img src="All_jira_icons_png/jira_logo_icon.png" width="16" height="16" alt="" /> | Jira logo |
